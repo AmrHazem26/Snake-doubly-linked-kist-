@@ -1,0 +1,2 @@
+ we made an enhancement that makes the snake move faster each time it grows 
+ if snake.exe has stopped working error has been encountered just restart game console and it will work fine
